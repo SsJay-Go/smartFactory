@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>exe</name>
+    </assembly>
+    <members>
+        <member name="M:exe.Utility.SwaggerExt.CustomSwaggerExt.AddSwaggerExt(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            配置Swagger
+            </summary>
+        </member>
+        <member name="M:exe.Utility.SwaggerExt.CustomSwaggerExt.UseSwaggerExt(Microsoft.AspNetCore.Builder.WebApplication)">
+            <summary>
+            使用Swagger
+            </summary>
+        </member>
+    </members>
+</doc>
